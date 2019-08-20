@@ -4,4 +4,13 @@
   box-sizing: content-box;
 }
 
+body, html {
+  font-family: "Montserrat", "sans-serif";
+}
+
+.background-image {
+  height: 100vh;
+  width: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */
